@@ -14,11 +14,16 @@ A RESTful Todo List API built with FastAPI and MongoDB, featuring JWT authentica
 - MongoDB
 - Postman (for testing)
 
+## Clone the repository
+git clone https://github.com/Kuldeepkushwah06/todo_list.git
+cd todo_list
+
 ## Installation & Setup
 
 1. **Create Virtual Environment**
 python -m venv venv
 source venv/bin/activate # Linux/Mac
+
 venv\Scripts\activate # Windows
 
 2. **Install Dependencies**
